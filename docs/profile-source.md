@@ -42,6 +42,28 @@ Source: GitHub public API for `ty000`, checked on 2026-06-11.
 - Original non-profile repos identified: `express-middleware-condition`, `redis-connector`
 - Recent public forks/curation signals: `agent-factory`, `everything-claude-code-cursor`
 
+## Service Packaging Added
+
+Source: profile review and repository owner request.
+
+- Short fullstack intervention: 2 days to 3 weeks
+- Technical audit: 2 to 5 days
+- Architecture and delivery sprint: 1 to 4 weeks
+- Engineering quality enablement: 1 to 4 weeks
+- Hands-on CTO support: temporary or part-time
+
+These are public offer formats derived from Davy Guittard's CV-backed skills and the requested freelance positioning.
+They are not presented as historical contract durations.
+
+## Private Work Positioning
+
+Source: repository owner clarification and CV context.
+
+- Recent production delivery is primarily represented by private employer or client repositories.
+- Public README can mention private work only through anonymized case studies and CV-backed outcomes.
+- Public README must not imply that private repositories are publicly inspectable.
+- Proprietary code, internal repository names, screenshots, or client secrets are excluded.
+
 ## Deliberate Exclusions
 
 - Phone number from the CV is not included in public Markdown.

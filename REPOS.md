@@ -12,6 +12,21 @@ Last checked: 2026-06-11 via GitHub public API for `ty000`.
 - Do not claim authorship of forked projects unless a specific contribution is verified.
 - Prefer recent, relevant, and implementation-backed projects in `README.md`.
 - Keep professional claims grounded in the CV when public repositories are not representative.
+- Mention private/proprietary work only as anonymized delivery context, never as inspectable public code.
+
+## Private And Proprietary Work Note
+
+The most relevant CTO/Tech Lead production work was delivered in private employer or client repositories.
+Those repositories cannot be linked publicly, so `README.md` uses anonymized case studies grounded in CV facts rather than pretending that public GitHub is the full evidence base.
+
+Acceptable public wording:
+- "Most recent production work was delivered inside private company or client repositories."
+- "I can discuss architecture decisions, anonymized code/process patterns, and concrete tradeoffs during an interview or under NDA."
+
+Avoid:
+- Claiming private repositories as public proof.
+- Publishing proprietary code, client secrets, screenshots, or internal repository names without permission.
+- Presenting forked repositories as original authored work.
 
 ## Included In README.md
 
@@ -100,3 +115,4 @@ Last checked: 2026-06-11 via GitHub public API for `ty000`.
 
 - The CV includes a phone number, but `README.md` intentionally does not publish it.
 - Email and LinkedIn are included because they are standard public professional contact channels.
+- Private/proprietary work is summarized through anonymized outcomes and delivery patterns only.
