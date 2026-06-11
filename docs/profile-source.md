@@ -50,6 +50,7 @@ Source: profile review and repository owner request.
 - Short fullstack intervention: 2 days to 3 weeks
 - Technical audit: 2 to 5 days
 - Architecture and delivery sprint: 1 to 4 weeks
+- AI product and workflow sprint: 1 to 3 weeks
 - Engineering quality enablement: 1 to 4 weeks
 - Hands-on CTO support: temporary or part-time
 - Example engineering quality format: 3-week audit, pairing/process introduction, stabilization/handover sequence
@@ -57,6 +58,15 @@ Source: profile review and repository owner request.
 
 These are public offer formats derived from Davy Guittard's CV-backed skills and the requested freelance positioning.
 They are not presented as historical contract durations.
+
+## AI Positioning Added
+
+Source: repository owner correction and Ed.Ai CV experience.
+
+- AI expertise must be visible as part of the public positioning.
+- Public profile can mention AI product/workflow framing, LLM workflows, prompt/workflow contracts, evaluation criteria, human-in-the-loop review, and AI-assisted engineering delivery.
+- Ed.Ai is included as a private-work case study in an AI product context.
+- AI claims should stay practical and engineering-focused, not claim unsupported model research, ML certification, or proprietary product details.
 
 ## Private Work Positioning
 

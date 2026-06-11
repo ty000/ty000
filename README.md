@@ -1,14 +1,14 @@
 ![Davy Guittard profile banner](docs/readme-assets/banner-davy-guittard-profile.svg)
 
-# Hands-on CTO | Tech Lead | TypeScript & Cloud Architecture
+# Hands-on CTO | Tech Lead | AI, TypeScript & Cloud Architecture
 
 Based in Lyon, France. Main profile: [LinkedIn](https://www.linkedin.com/in/davy-guittard/).
 
-Freelance focus: short TypeScript/SaaS missions where a team needs someone who can understand the product, ship code, stabilize delivery, and leave better engineering habits behind.
+Freelance focus: short AI, TypeScript, and SaaS missions where a team needs someone who can understand the product, ship code, stabilize delivery, and leave better engineering habits behind.
 
-Short TypeScript/SaaS mission: contact me on [LinkedIn](https://www.linkedin.com/in/davy-guittard/) or by [email](mailto:davyguittard@gmail.com). Objective: unblock, ship, stabilize, and transfer ownership.
+Short AI/TypeScript/SaaS mission: contact me on [LinkedIn](https://www.linkedin.com/in/davy-guittard/) or by [email](mailto:davyguittard@gmail.com). Objective: unblock, ship, stabilize, and transfer ownership.
 
-Mission courte TypeScript/SaaS: contactez-moi sur [LinkedIn](https://www.linkedin.com/in/davy-guittard/) ou par [email](mailto:davyguittard@gmail.com). Objectif: debloquer, livrer, stabiliser, transmettre.
+Mission courte IA/TypeScript/SaaS: contactez-moi sur [LinkedIn](https://www.linkedin.com/in/davy-guittard/) ou par [email](mailto:davyguittard@gmail.com). Objectif: debloquer, livrer, stabiliser, transmettre.
 
 ## EN
 
@@ -24,6 +24,7 @@ The goal is simple: unblock the team, ship useful changes, reduce operational ri
 
 - `Short fullstack intervention` - 2 days to 3 weeks to unblock a feature, API, frontend flow, production issue, or delivery bottleneck.
 - `Technical audit` - 2 to 5 days to assess architecture, code quality, CI/CD, cloud setup, reliability, and team workflow risks.
+- `AI product and workflow sprint` - 1 to 3 weeks to frame, prototype, or industrialize pragmatic AI features and AI-assisted engineering workflows.
 - `Architecture and delivery sprint` - 1 to 4 weeks to implement focused improvements on TypeScript, SaaS, API, CI/CD, observability, and cloud stacks.
 - `Engineering quality enablement` - 1 to 4 weeks to train a team through practical process changes, pairing, review standards, test strategy, and CI quality gates.
 - `Hands-on CTO support` - temporary or part-time support to align product roadmap, engineering capacity, technical strategy, OKRs, onboarding, and delivery quality.
@@ -32,6 +33,7 @@ The goal is simple: unblock the team, ship useful changes, reduce operational ri
 
 - Merged PRs, reviewed implementation notes, and deployment or handover documentation.
 - Architecture/risk map with a prioritized backlog and clear tradeoffs.
+- AI opportunity map, prototype scope, prompt/workflow design notes, evaluation criteria, and integration risk assessment.
 - CI/CD fixes, quality gates, test strategy, observability/SLO recommendations, and production-readiness checks.
 - Team-facing playbooks: PR checklist, Definition of Done, review standards, testing conventions, and incident/postmortem templates.
 
@@ -43,6 +45,16 @@ The goal is simple: unblock the team, ship useful changes, reduce operational ri
 - Rebuilt SaaS platforms on cloud-native stacks with Angular, NestJS, MongoDB, Azure, and Terraform.
 - Delivered an AWS Serverless MVP in 2 months with Node.js, DynamoDB, S3, and Lambda.
 - Raised test coverage to 85% while modernizing a regulated financial SaaS.
+
+### AI Product And Engineering Expertise
+
+I help teams use AI where it creates practical leverage, not as a buzzword. My focus is the engineering layer around AI products and AI-assisted delivery:
+
+- Frame AI opportunities against real product workflows, data constraints, cost, latency, privacy, and operational risk.
+- Prototype LLM-powered features, internal assistants, workflow automation, and agent-like flows with clear acceptance criteria.
+- Design prompt/workflow contracts, evaluation criteria, fallback behavior, observability, and human-in-the-loop review.
+- Integrate AI capabilities into existing TypeScript/SaaS stacks without bypassing security, tests, CI/CD, or maintainability.
+- Improve engineering productivity with AI coding workflows while keeping review quality, context discipline, and ownership explicit.
 
 ### Engineering Quality Intervention
 
@@ -64,15 +76,17 @@ Typical 3-week format:
 
 Most recent production work was delivered inside private company or client repositories. The cases below summarize CV-backed outcomes without exposing proprietary code.
 
-1. `Legendary Plays` - CTO Hands-on for a 2M+ user SaaS community platform. Defined technical vision, scaled React/Next.js/Supabase/Prisma/Vercel workflows, structured OKRs and onboarding, partnered with product on roadmap/capacity, doubled delivery speed, and reduced production incidents by 75% through CI/CD, SLOs, and monitoring.
-2. `Charvet Digital Media / IBIZA Software` - Tech Lead on SaaS modernization and quality practices. Rebuilt cloud-native systems with Angular, NestJS, MongoDB, Azure, and Terraform; introduced agile delivery, CI/CD, and test automation; recruited and mentored developers; raised test coverage to 85% in a regulated financial SaaS context.
-3. `Smash / Contentsquare` - Senior delivery on cloud and product engineering. Designed and shipped an AWS Serverless MVP in 2 months with Node.js, DynamoDB, S3, and Lambda; then built TypeScript microservices, modular Vue.js frontends, AWS Lambda/SQS services, and contributed to distributed-system architecture reviews.
+1. `Ed.Ai` - Founding Engineer in an AI product context. Helped shape engineering strategy, coding standards, SDLC practices, and product specifications with cross-functional teams.
+2. `Legendary Plays` - CTO Hands-on for a 2M+ user SaaS community platform. Defined technical vision, scaled React/Next.js/Supabase/Prisma/Vercel workflows, structured OKRs and onboarding, partnered with product on roadmap/capacity, doubled delivery speed, and reduced production incidents by 75% through CI/CD, SLOs, and monitoring.
+3. `Charvet Digital Media / IBIZA Software` - Tech Lead on SaaS modernization and quality practices. Rebuilt cloud-native systems with Angular, NestJS, MongoDB, Azure, and Terraform; introduced agile delivery, CI/CD, and test automation; recruited and mentored developers; raised test coverage to 85% in a regulated financial SaaS context.
+4. `Smash / Contentsquare` - Senior delivery on cloud and product engineering. Designed and shipped an AWS Serverless MVP in 2 months with Node.js, DynamoDB, S3, and Lambda; then built TypeScript microservices, modular Vue.js frontends, AWS Lambda/SQS services, and contributed to distributed-system architecture reviews.
 
 ### Core Stack
 
 - `Frontend`: React, Next.js, Vue.js, Angular
 - `Backend`: Node.js, NestJS, TypeScript, REST APIs
 - `Data`: PostgreSQL, MongoDB, DynamoDB, Prisma, Supabase
+- `AI engineering`: LLM workflows, prompt/workflow contracts, AI-assisted delivery, agent-like automation, evaluation criteria
 - `Cloud and DevOps`: AWS, Azure, GCP, Kubernetes, Terraform, Vercel, CI/CD
 - `Engineering leadership`: recruitment, mentoring, 1:1s, performance reviews, OKRs, agile delivery
 
@@ -123,6 +137,7 @@ L'objectif est simple: debloquer l'equipe, livrer des changements utiles, reduir
 
 - `Intervention fullstack courte` - 2 jours a 3 semaines pour debloquer une feature, une API, un parcours frontend, un probleme de production ou un blocage de delivery.
 - `Audit technique` - 2 a 5 jours pour evaluer architecture, qualite de code, CI/CD, cloud, fiabilite et risques de workflow equipe.
+- `Sprint produit et workflow IA` - 1 a 3 semaines pour cadrer, prototyper ou industrialiser des features IA pragmatiques et des workflows engineering augmentes par l'IA.
 - `Sprint architecture et delivery` - 1 a 4 semaines pour implementer des ameliorations ciblees sur TypeScript, SaaS, API, CI/CD, observabilite et cloud.
 - `Formation process qualite dev` - 1 a 4 semaines pour faire progresser l'equipe via pairing, standards de review, strategie de tests et quality gates CI.
 - `Support CTO hands-on` - support temporaire ou part-time pour aligner roadmap produit, capacite engineering, strategie technique, OKRs, onboarding et qualite de livraison.
@@ -131,6 +146,7 @@ L'objectif est simple: debloquer l'equipe, livrer des changements utiles, reduir
 
 - PRs mergees, notes d'implementation relues, documentation de deploiement ou de passation.
 - Cartographie architecture/risques avec backlog priorise et arbitrages explicites.
+- Cartographie d'opportunites IA, scope de prototype, notes de design prompt/workflow, criteres d'evaluation et analyse des risques d'integration.
 - Corrections CI/CD, quality gates, strategie de tests, recommandations observabilite/SLOs et checks de readiness production.
 - Playbooks equipe: checklist PR, Definition of Done, standards de review, conventions de tests et templates incident/postmortem.
 
@@ -142,6 +158,16 @@ L'objectif est simple: debloquer l'equipe, livrer des changements utiles, reduir
 - Refonte de plateformes SaaS vers des stacks cloud-native avec Angular, NestJS, MongoDB, Azure et Terraform.
 - Livraison d'un MVP AWS Serverless en 2 mois avec Node.js, DynamoDB, S3 et Lambda.
 - Passage de la couverture de tests a 85% pendant la modernisation d'un SaaS financier reglemente.
+
+### Expertise IA Produit Et Engineering
+
+J'aide les equipes a utiliser l'IA la ou elle cree un levier concret, pas comme un mot-cle. Mon focus est la couche engineering autour des produits IA et du delivery augmente par l'IA:
+
+- Cadrer les opportunites IA face aux workflows produit reels, contraintes data, couts, latence, privacy et risque operationnel.
+- Prototyper des features LLM, assistants internes, automatisations de workflow et flows proches d'agents avec criteres d'acceptation clairs.
+- Concevoir des contrats prompt/workflow, criteres d'evaluation, comportements fallback, observabilite et validation human-in-the-loop.
+- Integrer des capacites IA dans des stacks TypeScript/SaaS existantes sans contourner securite, tests, CI/CD ou maintenabilite.
+- Ameliorer la productivite engineering avec des workflows de coding IA tout en gardant qualite de review, discipline de contexte et ownership explicites.
 
 ### Intervention Process Qualite Dev
 
@@ -163,15 +189,17 @@ Format type sur 3 semaines:
 
 La majorite du travail de production recent se trouve dans des repos prives d'entreprises ou de clients. Les cas ci-dessous resument des resultats issus du CV sans exposer de code proprietaire.
 
-1. `Legendary Plays` - CTO Hands-on sur une plateforme SaaS communautaire de 2M+ utilisateurs. Vision technique, scaling React/Next.js/Supabase/Prisma/Vercel, structuration des OKRs et de l'onboarding, alignement roadmap/capacite avec le produit, doublement de la vitesse de delivery et reduction des incidents de production de 75% via CI/CD, SLOs et monitoring.
-2. `Charvet Digital Media / IBIZA Software` - Tech Lead sur modernisation SaaS et pratiques qualite. Refonte cloud-native avec Angular, NestJS, MongoDB, Azure et Terraform; mise en place delivery agile, CI/CD et automatisation de tests; recrutement et mentoring de developpeurs; couverture de tests portee a 85% dans un contexte SaaS financier reglemente.
-3. `Smash / Contentsquare` - Delivery senior sur cloud et engineering produit. Design et livraison d'un MVP AWS Serverless en 2 mois avec Node.js, DynamoDB, S3 et Lambda; puis microservices TypeScript, frontends Vue.js modulaires, services AWS Lambda/SQS et contribution aux reviews d'architecture distribuee.
+1. `Ed.Ai` - Founding Engineer dans un contexte produit IA. Contribution a la strategie engineering, aux standards de code, aux pratiques SDLC et aux specifications produit avec des equipes cross-fonctionnelles.
+2. `Legendary Plays` - CTO Hands-on sur une plateforme SaaS communautaire de 2M+ utilisateurs. Vision technique, scaling React/Next.js/Supabase/Prisma/Vercel, structuration des OKRs et de l'onboarding, alignement roadmap/capacite avec le produit, doublement de la vitesse de delivery et reduction des incidents de production de 75% via CI/CD, SLOs et monitoring.
+3. `Charvet Digital Media / IBIZA Software` - Tech Lead sur modernisation SaaS et pratiques qualite. Refonte cloud-native avec Angular, NestJS, MongoDB, Azure et Terraform; mise en place delivery agile, CI/CD et automatisation de tests; recrutement et mentoring de developpeurs; couverture de tests portee a 85% dans un contexte SaaS financier reglemente.
+4. `Smash / Contentsquare` - Delivery senior sur cloud et engineering produit. Design et livraison d'un MVP AWS Serverless en 2 mois avec Node.js, DynamoDB, S3 et Lambda; puis microservices TypeScript, frontends Vue.js modulaires, services AWS Lambda/SQS et contribution aux reviews d'architecture distribuee.
 
 ### Stack Principale
 
 - `Frontend`: React, Next.js, Vue.js, Angular
 - `Backend`: Node.js, NestJS, TypeScript, APIs REST
 - `Data`: PostgreSQL, MongoDB, DynamoDB, Prisma, Supabase
+- `AI engineering`: workflows LLM, contrats prompt/workflow, delivery augmente par l'IA, automatisation type agent, criteres d'evaluation
 - `Cloud et DevOps`: AWS, Azure, GCP, Kubernetes, Terraform, Vercel, CI/CD
 - `Leadership engineering`: recrutement, mentoring, 1:1s, performance reviews, OKRs, delivery agile
 
