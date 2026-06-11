@@ -51,6 +51,8 @@ Source: profile review and repository owner request.
 - Architecture and delivery sprint: 1 to 4 weeks
 - Engineering quality enablement: 1 to 4 weeks
 - Hands-on CTO support: temporary or part-time
+- Example engineering quality format: 3-week audit, pairing/process introduction, stabilization/handover sequence
+- Public CTA: contact by LinkedIn or email for short TypeScript/SaaS missions
 
 These are public offer formats derived from Davy Guittard's CV-backed skills and the requested freelance positioning.
 They are not presented as historical contract durations.
@@ -62,7 +64,17 @@ Source: repository owner clarification and CV context.
 - Recent production delivery is primarily represented by private employer or client repositories.
 - Public README can mention private work only through anonymized case studies and CV-backed outcomes.
 - Public README must not imply that private repositories are publicly inspectable.
+- Interview-safe evidence can include anonymized architecture diagrams, PR/review checklists, test strategy excerpts, ADR examples, delivery-risk maps, and process playbooks.
 - Proprietary code, internal repository names, screenshots, or client secrets are excluded.
+
+## Working Terms Added
+
+Source: CV and profile positioning.
+
+- Lyon, France based
+- Remote work experience across Paris/Lyon roles in the CV
+- French native, English fluent
+- Current availability and commercial terms are intentionally marked as directly confirmable, not asserted as a fixed public claim.
 
 ## Deliberate Exclusions
 

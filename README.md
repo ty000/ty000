@@ -6,6 +6,10 @@ Based in Lyon, France. Main profile: [LinkedIn](https://www.linkedin.com/in/davy
 
 Freelance focus: short TypeScript/SaaS missions where a team needs someone who can understand the product, ship code, stabilize delivery, and leave better engineering habits behind.
 
+Short TypeScript/SaaS mission: contact me on [LinkedIn](https://www.linkedin.com/in/davy-guittard/) or by [email](mailto:davyguittard@gmail.com). Objective: unblock, ship, stabilize, and transfer ownership.
+
+Mission courte TypeScript/SaaS: contactez-moi sur [LinkedIn](https://www.linkedin.com/in/davy-guittard/) ou par [email](mailto:davyguittard@gmail.com). Objectif: debloquer, livrer, stabiliser, transmettre.
+
 ## EN
 
 I help SaaS companies, startups, and product teams move faster without letting quality, architecture, or production reliability drift.
@@ -15,6 +19,8 @@ I have 10+ years of experience across JavaScript/TypeScript, React, Next.js, Nod
 cloud-native platforms, and engineering team growth.
 
 ### Best Fit Missions
+
+The goal is simple: unblock the team, ship useful changes, reduce operational risk, and leave clear ownership behind.
 
 - `Short fullstack intervention` - 2 days to 3 weeks to unblock a feature, API, frontend flow, production issue, or delivery bottleneck.
 - `Technical audit` - 2 to 5 days to assess architecture, code quality, CI/CD, cloud setup, reliability, and team workflow risks.
@@ -48,13 +54,19 @@ For CTOs who want to improve delivery discipline without slowing the team down, 
 - Pair with developers on real tickets so the process is learned through delivery, not slides.
 - Leave reusable checklists and conventions that the team can keep using after the mission.
 
+Typical 3-week format:
+
+- `Week 1`: audit the repo, CI/CD, review flow, test coverage, release process, and production risks.
+- `Week 2`: pair with developers on real tickets while introducing PR standards, test conventions, and CI quality gates.
+- `Week 3`: stabilize the process, document the playbook, review adoption with the team, and hand over a prioritized improvement backlog.
+
 ### Selected Private-Work Case Studies
 
 Most recent production work was delivered inside private company or client repositories. The cases below summarize CV-backed outcomes without exposing proprietary code.
 
-1. `Legendary Plays` - CTO Hands-on for a 2M+ user SaaS community platform. Defined technical vision, scaled React/Next.js/Supabase/Prisma/Vercel workflows, doubled delivery speed, and reduced production incidents by 75% through CI/CD, SLOs, and monitoring.
-2. `Charvet Digital Media / IBIZA Software` - Tech Lead on SaaS modernization and quality practices. Rebuilt cloud-native systems with Angular, NestJS, MongoDB, Azure, and Terraform; introduced CI/CD and test automation; raised test coverage to 85% in a regulated financial SaaS context.
-3. `Smash / Contentsquare` - Senior delivery on cloud and product engineering. Shipped an AWS Serverless MVP in 2 months with Node.js, DynamoDB, S3, and Lambda; later worked on TypeScript microservices, modular Vue.js frontends, AWS Lambda/SQS, and distributed-system architecture reviews.
+1. `Legendary Plays` - CTO Hands-on for a 2M+ user SaaS community platform. Defined technical vision, scaled React/Next.js/Supabase/Prisma/Vercel workflows, structured OKRs and onboarding, partnered with product on roadmap/capacity, doubled delivery speed, and reduced production incidents by 75% through CI/CD, SLOs, and monitoring.
+2. `Charvet Digital Media / IBIZA Software` - Tech Lead on SaaS modernization and quality practices. Rebuilt cloud-native systems with Angular, NestJS, MongoDB, Azure, and Terraform; introduced agile delivery, CI/CD, and test automation; recruited and mentored developers; raised test coverage to 85% in a regulated financial SaaS context.
+3. `Smash / Contentsquare` - Senior delivery on cloud and product engineering. Designed and shipped an AWS Serverless MVP in 2 months with Node.js, DynamoDB, S3, and Lambda; then built TypeScript microservices, modular Vue.js frontends, AWS Lambda/SQS services, and contributed to distributed-system architecture reviews.
 
 ### Core Stack
 
@@ -73,6 +85,7 @@ Most recent production work was delivered inside private company or client repos
 
 Public GitHub does not represent the full scope of my production work: most recent CTO/Tech Lead delivery happened in private employer or client repositories.
 I can discuss architecture decisions, anonymized code/process patterns, and concrete tradeoffs during an interview or under NDA.
+What I can show or walk through: anonymized architecture diagrams, PR/review checklists, test strategy excerpts, ADR examples, delivery-risk maps, and process playbooks.
 See [REPOS.md](REPOS.md) for the public repository inventory and credibility notes.
 
 ### How I Work In Your Team
@@ -82,6 +95,13 @@ See [REPOS.md](REPOS.md) for the public repository inventory and credibility not
 - I ship code, review code, mentor developers, and document decisions.
 - I treat CI/CD, tests, observability, SLOs, and incident reduction as product enablers.
 - I keep limits explicit and decisions traceable.
+
+### Availability And Working Terms
+
+- Remote-first from Lyon, France; hybrid or onsite in France depending on mission context.
+- French native, English fluent.
+- Best fit: short freelance missions, part-time hands-on CTO support, team enablement, and focused delivery sprints.
+- Current availability and commercial terms are confirmed directly by LinkedIn or email.
 
 ### Contact
 
@@ -104,6 +124,8 @@ J'ai 10+ ans d'experience sur JavaScript/TypeScript, React, Next.js, Node.js, Ne
 les plateformes cloud-native et le developpement d'equipes engineering.
 
 ### Missions Ou Je Suis Le Plus Utile
+
+L'objectif est simple: debloquer l'equipe, livrer des changements utiles, reduire le risque operationnel et transmettre clairement la suite.
 
 - `Intervention fullstack courte` - 2 jours a 3 semaines pour debloquer une feature, une API, un parcours frontend, un probleme de production ou un blocage de delivery.
 - `Audit technique` - 2 a 5 jours pour evaluer architecture, qualite de code, CI/CD, cloud, fiabilite et risques de workflow equipe.
@@ -137,13 +159,19 @@ Pour un CTO qui veut faire progresser ses pratiques sans ralentir l'equipe, je t
 - Faire du pairing avec les developpeurs sur de vrais tickets pour ancrer les pratiques dans le delivery.
 - Laisser des checklists et conventions reutilisables apres la mission.
 
+Format type sur 3 semaines:
+
+- `Semaine 1`: audit du repo, de la CI/CD, du flux de review, des tests, du process de release et des risques production.
+- `Semaine 2`: pairing avec les developpeurs sur de vrais tickets, avec introduction des standards PR, conventions de tests et quality gates CI.
+- `Semaine 3`: stabilisation du process, documentation du playbook, revue d'adoption avec l'equipe et passation d'un backlog d'amelioration priorise.
+
 ### Cas Clients / Projets Anonymises
 
 La majorite du travail de production recent se trouve dans des repos prives d'entreprises ou de clients. Les cas ci-dessous resument des resultats issus du CV sans exposer de code proprietaire.
 
-1. `Legendary Plays` - CTO Hands-on sur une plateforme SaaS communautaire de 2M+ utilisateurs. Vision technique, scaling React/Next.js/Supabase/Prisma/Vercel, doublement de la vitesse de delivery et reduction des incidents de production de 75% via CI/CD, SLOs et monitoring.
-2. `Charvet Digital Media / IBIZA Software` - Tech Lead sur modernisation SaaS et pratiques qualite. Refonte cloud-native avec Angular, NestJS, MongoDB, Azure et Terraform; mise en place CI/CD et automatisation de tests; couverture de tests portee a 85% dans un contexte SaaS financier reglemente.
-3. `Smash / Contentsquare` - Delivery senior sur cloud et engineering produit. Livraison d'un MVP AWS Serverless en 2 mois avec Node.js, DynamoDB, S3 et Lambda; puis microservices TypeScript, frontends Vue.js modulaires, AWS Lambda/SQS et reviews d'architecture distribuee.
+1. `Legendary Plays` - CTO Hands-on sur une plateforme SaaS communautaire de 2M+ utilisateurs. Vision technique, scaling React/Next.js/Supabase/Prisma/Vercel, structuration des OKRs et de l'onboarding, alignement roadmap/capacite avec le produit, doublement de la vitesse de delivery et reduction des incidents de production de 75% via CI/CD, SLOs et monitoring.
+2. `Charvet Digital Media / IBIZA Software` - Tech Lead sur modernisation SaaS et pratiques qualite. Refonte cloud-native avec Angular, NestJS, MongoDB, Azure et Terraform; mise en place delivery agile, CI/CD et automatisation de tests; recrutement et mentoring de developpeurs; couverture de tests portee a 85% dans un contexte SaaS financier reglemente.
+3. `Smash / Contentsquare` - Delivery senior sur cloud et engineering produit. Design et livraison d'un MVP AWS Serverless en 2 mois avec Node.js, DynamoDB, S3 et Lambda; puis microservices TypeScript, frontends Vue.js modulaires, services AWS Lambda/SQS et contribution aux reviews d'architecture distribuee.
 
 ### Stack Principale
 
@@ -162,6 +190,7 @@ La majorite du travail de production recent se trouve dans des repos prives d'en
 
 Le GitHub public ne represente pas tout le perimetre du travail de production: la majorite du delivery CTO/Tech Lead recent a ete realisee dans des repos prives d'employeurs ou de clients.
 Je peux discuter des decisions d'architecture, patterns de code/process anonymises et arbitrages concrets en entretien ou sous NDA.
+Ce que je peux montrer ou parcourir: schemas d'architecture anonymises, checklists PR/review, extraits de strategie de tests, exemples d'ADR, cartographies de risque delivery et playbooks process.
 Voir [REPOS.md](REPOS.md) pour l'inventaire des repos publics et les notes de credibilite.
 
 ### Comment Je Travaille Dans Une Equipe
@@ -171,6 +200,13 @@ Voir [REPOS.md](REPOS.md) pour l'inventaire des repos publics et les notes de cr
 - Je livre du code, review du code, mentore les developpeurs et documente les decisions.
 - Je traite CI/CD, tests, observabilite, SLOs et reduction d'incidents comme des leviers produit.
 - Je garde les limites explicites et les decisions tracables.
+
+### Disponibilite Et Modalites
+
+- Remote-first depuis Lyon, France; hybride ou onsite en France selon le contexte de mission.
+- Francais natif, anglais courant.
+- Meilleur fit: missions freelance courtes, support CTO hands-on part-time, formation d'equipe et sprints de delivery cibles.
+- Disponibilite actuelle et conditions commerciales a confirmer directement par LinkedIn ou email.
 
 ### Contact
 
