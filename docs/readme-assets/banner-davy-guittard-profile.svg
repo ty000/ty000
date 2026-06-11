@@ -7,7 +7,7 @@
   <path d="M92 122H350" stroke="#3FB950" stroke-width="8" stroke-linecap="round"/>
   <path d="M92 152H300" stroke="#F2CC60" stroke-width="8" stroke-linecap="round"/>
   <text x="92" y="216" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Davy Guittard</text>
-  <text x="92" y="252" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Hands-on CTO | Tech Lead | AI | TypeScript | Cloud</text>
+  <text x="92" y="252" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Hands-on CTO | Tech Lead | AI | Automation | TypeScript</text>
   <g transform="translate(810 78)">
     <rect x="0" y="0" width="286" height="152" rx="10" fill="#0D1117" stroke="#30363D"/>
     <text x="24" y="44" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20">delivery</text>

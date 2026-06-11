@@ -47,14 +47,14 @@ Source: repository owner clarification.
 
 Source: profile review and repository owner request.
 
-- Short fullstack intervention: 2 days to 3 weeks
-- Technical audit: 2 to 5 days
-- Architecture and delivery sprint: 1 to 4 weeks
-- AI product and workflow sprint: 1 to 3 weeks
-- Engineering quality enablement: 1 to 4 weeks
-- Hands-on CTO support: temporary or part-time
-- Example engineering quality format: 3-week audit, pairing/process introduction, stabilization/handover sequence
-- Public CTA: contact by LinkedIn or email for short TypeScript/SaaS missions
+- Fullstack or AI-assisted intervention: a few days to 2 months
+- Technical and workflow audit: a few days to 1 month
+- Architecture and delivery mission: 1 to 4 months
+- AI and process automation mission: 2 weeks to 4 months
+- Engineering quality enablement: 1 to 4 months
+- Hands-on CTO support: temporary or part-time up to 4 months
+- Example engineering quality format: first-month audit, pairing/process introduction, automation introduction, stabilization/handover sequence
+- Public CTA: contact by LinkedIn or email for AI/TypeScript/SaaS missions up to 4 months
 
 These are public offer formats derived from Davy Guittard's CV-backed skills and the requested freelance positioning.
 They are not presented as historical contract durations.
@@ -66,6 +66,8 @@ Source: repository owner correction and Ed.Ai CV experience.
 - AI expertise must be visible as part of the public positioning.
 - Public profile can mention AI product/workflow framing, LLM workflows, prompt/workflow contracts, evaluation criteria, human-in-the-loop review, and AI-assisted engineering delivery.
 - Ed.Ai is included as a private-work case study in an AI product context.
+- Repository owner reports building 50 Codex plugins; this can be used as a practical tooling/process automation proof point.
+- Positioning should emphasize process optimization through automation, AI integration, productivity tools, and convenience tooling across business domains.
 - AI claims should stay practical and engineering-focused, not claim unsupported model research, ML certification, or proprietary product details.
 
 ## Private Work Positioning
