@@ -1,6 +1,6 @@
 ![Davy Guittard profile banner](docs/readme-assets/banner-davy-guittard-profile.svg)
 
-# Hands-on CTO | Tech Lead | AI, Automation, TypeScript & Cloud Architecture
+# Freelance Tech Lead | AI Automation & Product Delivery
 
 Based in Lyon, France. Main profile: [LinkedIn](https://www.linkedin.com/in/davy-guittard/).
 
