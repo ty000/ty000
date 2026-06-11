@@ -76,17 +76,11 @@ Most recent production work was delivered inside private company or client repos
 - `Cloud and DevOps`: AWS, Azure, GCP, Kubernetes, Terraform, Vercel, CI/CD
 - `Engineering leadership`: recruitment, mentoring, 1:1s, performance reviews, OKRs, agile delivery
 
-### Public Code, Private Code, And Curation
+### Private Work And Interview Evidence
 
-1. [express-middleware-condition](https://github.com/ty000/express-middleware-condition) - Small Express middleware helper for conditional middleware execution.
-2. [redis-connector](https://github.com/ty000/redis-connector) - Small Node.js Redis client connector utility.
-3. [agent-factory](https://github.com/ty000/agent-factory) - Public fork tracking autonomous agent research and specialized agent workflows.
-4. [everything-claude-code-cursor](https://github.com/ty000/everything-claude-code-cursor) - Public fork tracking AI coding environment configuration patterns.
-
-Public GitHub does not represent the full scope of my production work: most recent CTO/Tech Lead delivery happened in private employer or client repositories.
+Most recent CTO/Tech Lead delivery happened in private employer or client repositories, so public GitHub is not a useful representation of my production work.
 I can discuss architecture decisions, anonymized code/process patterns, and concrete tradeoffs during an interview or under NDA.
 What I can show or walk through: anonymized architecture diagrams, PR/review checklists, test strategy excerpts, ADR examples, delivery-risk maps, and process playbooks.
-See [REPOS.md](REPOS.md) for the public repository inventory and credibility notes.
 
 ### How I Work In Your Team
 
@@ -181,17 +175,11 @@ La majorite du travail de production recent se trouve dans des repos prives d'en
 - `Cloud et DevOps`: AWS, Azure, GCP, Kubernetes, Terraform, Vercel, CI/CD
 - `Leadership engineering`: recrutement, mentoring, 1:1s, performance reviews, OKRs, delivery agile
 
-### Code Public, Code Prive Et Curation
+### Travail Prive Et Preuves En Entretien
 
-1. [express-middleware-condition](https://github.com/ty000/express-middleware-condition) - Petit helper Express pour executer un middleware sous condition.
-2. [redis-connector](https://github.com/ty000/redis-connector) - Petit connecteur Node.js pour gerer des clients Redis.
-3. [agent-factory](https://github.com/ty000/agent-factory) - Fork public autour de workflows d'agents autonomes et specialises.
-4. [everything-claude-code-cursor](https://github.com/ty000/everything-claude-code-cursor) - Fork public autour de configurations d'environnements de coding IA.
-
-Le GitHub public ne represente pas tout le perimetre du travail de production: la majorite du delivery CTO/Tech Lead recent a ete realisee dans des repos prives d'employeurs ou de clients.
+La majorite du delivery CTO/Tech Lead recent a ete realisee dans des repos prives d'employeurs ou de clients: le GitHub public n'est donc pas une representation utile de mon travail de production.
 Je peux discuter des decisions d'architecture, patterns de code/process anonymises et arbitrages concrets en entretien ou sous NDA.
 Ce que je peux montrer ou parcourir: schemas d'architecture anonymises, checklists PR/review, extraits de strategie de tests, exemples d'ADR, cartographies de risque delivery et playbooks process.
-Voir [REPOS.md](REPOS.md) pour l'inventaire des repos publics et les notes de credibilite.
 
 ### Comment Je Travaille Dans Une Equipe
 

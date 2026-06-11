@@ -34,13 +34,14 @@ Source: `C:\Users\davy\Documents\cv\Davy_Guittard_CTO_EN.pdf`
 - AWS Serverless MVP delivered in 2 months
 - Test coverage increased to 85% during regulated financial SaaS modernization
 
-## Public Repository Facts Used
+## Public Repository Decision
 
-Source: GitHub public API for `ty000`, checked on 2026-06-11.
+Source: repository owner clarification.
 
-- Public repositories: 13
-- Original non-profile repos identified: `express-middleware-condition`, `redis-connector`
-- Recent public forks/curation signals: `agent-factory`, `everything-claude-code-cursor`
+- Public repositories are intentionally not featured in the profile.
+- Existing non-fork public repositories are too small and old to support the current freelance positioning.
+- Recent public forks do not contain owned commits that should be presented as proof of current production work.
+- The profile therefore emphasizes CV-backed private delivery context and interview-safe anonymized evidence.
 
 ## Service Packaging Added
 
@@ -79,5 +80,5 @@ Source: CV and profile positioning.
 ## Deliberate Exclusions
 
 - Phone number from the CV is not included in public Markdown.
-- Forked repositories are not presented as original authored work.
+- Old, small, or forked repositories are not used as profile proof.
 - Private employer work is summarized through role and outcome claims from the CV, not through source-code evidence.
