@@ -89,6 +89,15 @@ Source: CV and profile positioning.
 - French native, English fluent
 - Current availability and commercial terms are intentionally marked as directly confirmable, not asserted as a fixed public claim.
 
+## Compact README Redesign
+
+Source: repository owner feedback.
+
+- README should be shorter and more scannable.
+- French-first profile is acceptable because the primary target market is likely French-speaking.
+- Use compact mission tables, proof cards, details/summary for technical stack, and a professional diagram instead of repeating full EN/FR sections.
+- Keep English content as a short summary rather than a full duplicate.
+
 ## Deliberate Exclusions
 
 - Phone number from the CV is not included in public Markdown.
