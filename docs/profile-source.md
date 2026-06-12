@@ -97,6 +97,7 @@ Source: repository owner feedback.
 - French-first profile is acceptable because the primary target market is likely French-speaking.
 - Use compact mission tables, proof cards, details/summary for technical stack, and a professional diagram instead of repeating full EN/FR sections.
 - Keep English content as a short summary rather than a full duplicate.
+- French copy should use proper accents and a more factual, less marketing-oriented tone.
 
 ## Deliberate Exclusions
 
